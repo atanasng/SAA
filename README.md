@@ -1,2 +1,2 @@
 # SAA
-University tasks for synthesis and analysis of algorithms c++.
+Synthesis and analysis of algorithms c++ University tasks.
